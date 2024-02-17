@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\clinica\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\clinica\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\clinica\Clinica\Clinica\obj\Debug\Clinica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\clinica\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\clinica\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
